@@ -11,8 +11,11 @@ public class numericpromotion {
          float f1 = 1.2f;
          float f2 = 3.4f;
 
-         double resolt3 =f1 +f2;
+         double result3 =f1 +f2;
          double d4 = 1.2;
+      System.out.println(result3);
+      // *=
+
 
 
     }

@@ -2,8 +2,10 @@ package primitives;
 
 public class presedencepractis {
     public static void main(String[] args) {
-        int num1 = 5;
-        int num =10;
-        int resolt = num1;
+        int num1 = 20;
+        int num =40;
+        int total = num1;
+        System.out.println(total+num1);
     }
+
 }

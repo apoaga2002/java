@@ -6,5 +6,8 @@ public class CompoundAssignments {
         int num1= 7; // 14
         int num2 = num1 + 7; //6
         System.out.println(num2);//6
+
+
+
     }
 }

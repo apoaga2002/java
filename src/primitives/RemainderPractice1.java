@@ -13,14 +13,14 @@ public class RemainderPractice1 {
         // 12  % 10 >> 2
         // 123 % 10 >>> 3
         int mynumber = 123;
-          int  digit3 = mynumber % 10;
-          mynumber = mynumber /10;
-          int digit2 = mynumber % 10;
-          mynumber =  mynumber % 10;
+        mynumber = mynumber /10;
+          int  digit3 = mynumber /10;
+          int digit2 = mynumber %10;
+          int digit1 =  mynumber % 10;
         System.out.println(digit3);
         System.out.println(digit2);
-        System.out.println(digit2);
-      // find the product of digit from givien number
+        System.out.println(digit1);
+      // find the product of digit from giving number
         //456 ==> 4 * 5 * = 128
 
         int num = 456;
