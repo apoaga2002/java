@@ -28,6 +28,15 @@ public class HomeWork2 {
         double turkishLira =doll$ *11.20;
         System.out.println(turkishLira);
 
+        System.out.println("  ================================== ");
+        System.out.println("  |                                | ");
+        System.out.println("  |                                | ");
+        System.out.println("  |                                | ");
+        System.out.println("  |              Dino Toprak       | ");
+        System.out.println("  |              4532 Narragansett | ");
+        System.out.println("  |              Harwood Heights   | ");
+        System.out.println("  |              IL. 60706         | ");
+        System.out.println("  ================================== ");
 
     }
 }

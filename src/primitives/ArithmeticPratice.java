@@ -26,8 +26,8 @@ public class ArithmeticPratice {
         int b= 5;
         a %= b = 5;
 
-        int remainider2 = a % b;
-        System.out.println("The left of 11/5 is ="+ remainider2);
+        int remainder2 = a % b;
+        System.out.println("The left of 11/5 is ="+ remainder2);
 
 
 

@@ -1,9 +1,9 @@
 package primitives;
 
-public class numericpromotion {
+public class NumericPromotion {
     public static void main(String[] args) {
         byte b1 = 12;
-        short sh1= b1;
+        short Sh1= b1;
         short sh2 = b1;
          byte b2 = 2;
          int i1 = 2;
@@ -14,7 +14,8 @@ public class numericpromotion {
          double result3 =f1 +f2;
          double d4 = 1.2;
       System.out.println(result3);
-      // *=
+      String str = "just do it";
+
 
 
 
